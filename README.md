@@ -5,6 +5,8 @@ An [Alt1 Toolkit](https://runeapps.org/alt1) app for RuneScape 3. It watches for
 your re-roll progress straight off the screen, and tells you whether the casket is worth
 spending a token on.
 
+![The app, on a medium casket worth 678,818](docs/screenshot.png)
+
 A re-roll replaces the **entire** reward with a fresh random one — you can't keep the old
 loot and you can't cherry-pick items — so the only question that matters is whether this
 casket is worse than a random one, and whether it's worse by enough to be worth a scarce token.
