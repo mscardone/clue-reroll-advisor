@@ -1,0 +1,4 @@
+# Keep line endings stable no matter which OS commits.
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.png binary
