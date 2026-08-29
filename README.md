@@ -43,7 +43,7 @@ git repo with history), then **Publish repository** - name it `clue-reroll-advis
 
 Then on github.com: **Settings > Pages > Source: Deploy from a branch > main > / (root) > Save**.
 
-Install from `alt1://addapp/https://<you>.github.io/clue-reroll-advisor/appconfig.json`.
+Install from `alt1://addapp/https://mscardone.github.io/clue-reroll-advisor/appconfig.json`.
 `.nojekyll` is already in place so Pages serves the folder as-is, and `node_modules` is
 gitignored so it never gets uploaded.
 
