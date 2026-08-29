@@ -34,17 +34,18 @@ dependencies at all.
 
 ### Hosting it on GitHub Pages instead
 
-The folder is a static site with no build step, so pushing it to a repo with Pages enabled
-gives you a permanent install URL and you don't have to run the server:
+The folder is a static site with no build step, so putting it on GitHub Pages gives you a
+permanent install URL and you never run the server again.
 
-```
-git remote add origin git@github.com:<you>/clue-reroll-advisor.git
-git push -u origin main
-```
+With GitHub Desktop: **File > Add local repository**, point it at this folder (it already is a
+git repo with history), then **Publish repository** - name it `clue-reroll-advisor` and untick
+"Keep this code private", since Pages needs a public repo on a free account.
 
-Then enable Pages on the repo (deploy from `main`, root) and install from
-`alt1://addapp/https://<you>.github.io/clue-reroll-advisor/appconfig.json`.
-`.nojekyll` is already in place so Pages serves the folder as-is.
+Then on github.com: **Settings > Pages > Source: Deploy from a branch > main > / (root) > Save**.
+
+Install from `alt1://addapp/https://<you>.github.io/clue-reroll-advisor/appconfig.json`.
+`.nojekyll` is already in place so Pages serves the folder as-is, and `node_modules` is
+gitignored so it never gets uploaded.
 
 ## Using it
 
