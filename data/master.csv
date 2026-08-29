@@ -1,0 +1,138 @@
+table,item,rarity,value
+commons,Wine of Zamorak,1/36,1414
+commons,Wine of Saradomin,1/36,69214
+commons,Weapon poison++ (4),1/18,63520
+commons,Prayer renewal (4),1/18,85124
+commons,Runite stone spirit,1/18,12411
+commons,Hydrix bolt tips,1/18,195150
+commons,Water talisman,1/18,5630
+commons,Onyx bolt tips,1/18,198225
+commons,Palm tree seed,1/18,826
+commons,Golden dragonfruit seed,1/18,2057
+commons,Coins,1/18,100000
+commons,Battlestaff,1/18,76545
+commons,Crystal key,1/18,33972
+commons,Dragon arrowheads,1/18,24200
+commons,Huge plated rune salvage,1/18,37896
+commons,Carambola seed,1/18,13482
+commons,Mahogany plank,1/18,80640
+commons,Dragon helm,1/18,58029
+commons,Uncut dragonstone,99/1800,11154
+commons,Uncut onyx,1/1800,1071315
+shared,Saradomin page 1,1/408,15850-47550
+shared,Saradomin page 2,1/408,11832-35496
+shared,Saradomin page 3,1/408,14835-44505
+shared,Saradomin page 4,1/408,16324-48972
+shared,Zamorak page 1,1/408,17049-51147
+shared,Zamorak page 2,1/408,13315-39945
+shared,Zamorak page 3,1/408,14200-42600
+shared,Zamorak page 4,1/408,16596-49788
+shared,Guthix page 1,1/408,20488-61464
+shared,Guthix page 2,1/408,17642-52926
+shared,Guthix page 3,1/408,18161-54483
+shared,Guthix page 4,1/408,18758-56274
+shared,Armadyl page 1,1/408,28268-84804
+shared,Armadyl page 2,1/408,21417-64251
+shared,Armadyl page 3,1/408,23416-70248
+shared,Armadyl page 4,1/408,28349-85047
+shared,Ancient page 1,1/408,9472-28416
+shared,Ancient page 2,1/408,7325-21975
+shared,Ancient page 3,1/408,8545-25635
+shared,Ancient page 4,1/408,6905-20715
+shared,Bandos page 1,1/408,4370-13110
+shared,Bandos page 2,1/408,4135-12405
+shared,Bandos page 3,1/408,5630-16890
+shared,Bandos page 4,1/408,3928-11784
+shared,Red firelighter,1/102,23790-38064
+shared,Green firelighter,1/102,22725-36360
+shared,Blue firelighter,1/102,14325-22920
+shared,Purple firelighter,1/102,14070-22512
+shared,White firelighter,1/102,17280-27648
+shared,Guido's bonfire in a bottle,1/102,24345-48690
+shared,Purple sweets,1/17,30225-58435
+shared,Holy biscuits,1/17,180-348
+shared,Pollnivneach Teleport,1/17,5140-10280
+shared,Bandit Camp Teleport,1/34,9765-19530
+shared,Gu'Tanoth Teleport,1/34,3350-6700
+shared,Miscellania Teleport,1/34,3265-6530
+shared,Lighthouse Teleport,1/34,99910-199820
+shared,Phoenix Lair Teleport,1/34,3135-6270
+shared,Grand Exchange Teleport,1/34,29460-58920
+shared,Tai Bwo Wannai Teleport,1/34,12165-24330
+shared,Clocktower Teleport,1/34,3590-7180
+shared,Fort Forinthry Teleport,1/17,5785-11570
+uniques,Flaming sword enchantment,1/588,1131050
+uniques,Elemental impetus,1/1176,1974795
+uniques,Golden thread,1/1176,2095776
+uniques,Hobby unicorn (white),1/588,980726
+uniques,Hobby unicorn (black),1/588,879788
+uniques,Pyjama top,1/588,913277
+uniques,Pyjama bottoms,1/588,853455
+uniques,Pyjama slippers,1/588,921390
+uniques,Heavy chest,1/588,828974
+uniques,Bag of clues,1/588,781169
+uniques,Ring of coins,1/588,908941
+uniques,Ring of trees,1/588,890286
+uniques,Round glasses (black),1/1764,1085916
+uniques,Round glasses (green),1/1764,1038654
+uniques,Round glasses (blue),1/1764,1069677
+uniques,Stylish glasses (black),1/1764,1059536
+uniques,Stylish glasses (green),1/1764,1019938
+uniques,Stylish glasses (blue),1/1764,1056002
+uniques,Half-moon spectacles (black),1/1764,1012224
+uniques,Half-moon spectacles (green),1/1764,1061798
+uniques,Half-moon spectacles (blue),1/1764,1039350
+uniques,Adamant dragon mask,1/588,894665
+uniques,Rune dragon mask,1/588,906556
+uniques,Dragonstone dragon mask,1/588,904874
+uniques,Onyx dragon mask,1/588,897831
+uniques,Hydrix dragon mask,1/588,900407
+uniques,Gilded boater,1/588,751647
+uniques,Gilded cavalier,1/588,960338
+uniques,Samurai kasa,1/588,820642
+uniques,Reaper ornament kit,1/588,7125672
+uniques,Soul ornament kit,1/588,28942502
+uniques,Tuxedo jacket,1/588,817851
+uniques,Tuxedo trousers,1/588,805207
+uniques,Tuxedo shoes,1/588,822283
+uniques,Tuxedo gloves,1/588,822123
+uniques,Tuxedo cravat,1/588,823282
+uniques,Evening bolero,1/588,816464
+uniques,Evening dipped skirt,1/588,778743
+uniques,Evening shoes,1/588,805440
+uniques,Evening gloves,1/588,799970
+uniques,Evening masquerade mask,1/588,825651
+uniques,Heated tea flask,1/588,972066
+uniques,Pack yak mask,1/588,855006
+uniques,Orlando Smith's hat,1/105840,11482182261
+uniques,Elemental battlestaff,1/591,1321459
+uniques,Shadow dye,1/16464,684778304
+uniques,Ice dye,1/11586,634005067
+uniques,Barrows dye,1/9011,60141293
+uniques,Re-roll token (master) a,1/686,0
+uniques,Third Age dye,1/49980,9262023879
+uniques,Sack of effigies,1/35700,2196836
+uniques,Backstab cape,1/18153,1828978
+uniques,Crystal triskelion fragment 1a,1/626,0
+uniques,Crystal triskelion fragment 2a,1/626,0
+uniques,Crystal triskelion fragment 3a,1/626,0
+uniques,Blood dye,1/52920,9514200448
+uniques,Coins (200k),1/595,200000
+uniques,Starved ancient effigy,1/2940,0
+uniques,Crystal triskelion fragment 1b,1/735,0
+uniques,Crystal triskelion fragment 2b,1/735,0
+uniques,Crystal triskelion fragment 3b,1/735,0
+uniques,Second-Age full helm,1/529200,160262136
+uniques,Second-Age platebody,1/529200,534532453
+uniques,Second-Age platelegs,1/529200,793611791
+uniques,Second-Age mage mask,1/529200,176842716
+uniques,Second-Age robe top,1/529200,702393889
+uniques,Second-Age robe bottom,1/529200,719377500
+uniques,Second-Age range coif,1/529200,93302122
+uniques,Second-Age range top,1/529200,264245717
+uniques,Second-Age range legs,1/529200,270877801
+uniques,Second-Age sword,1/176400,224004485
+uniques,Second-Age staff,1/176400,245268304
+uniques,Second-Age bow,1/176400,253547630
+uniques,Re-roll token (master) b,1/908,0
+uniques,Coins (500k),1/1686,500000

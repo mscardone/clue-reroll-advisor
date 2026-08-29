@@ -1,0 +1,16 @@
+{
+  "name": "clue-reroll-advisor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alt1 app: reads the RS3 Trail Complete! window and advises on re-rolling the casket.",
+  "scripts": {
+    "test": "node test/run.js",
+    "serve": "node tools/serve.js",
+    "model": "python3 data/build_model.py",
+    "calibrate": "node tools/calibrate.js"
+  },
+  "devDependencies": {
+    "@alt1/base": "^0.0.17",
+    "pngjs": "^7.0.0"
+  }
+}

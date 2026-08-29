@@ -1,0 +1,14 @@
+{
+	"appName": "Clue Re-roll Advisor",
+	"description": "Reads the Trail Complete! window and tells you whether the casket is worth a re-roll token.",
+	"appUrl": "./index.html",
+	"configUrl": "./appconfig.json",
+	"iconUrl": "./icon.png",
+	"defaultWidth": 340,
+	"defaultHeight": 560,
+	"minWidth": 300,
+	"minHeight": 380,
+	"maxWidth": 700,
+	"maxHeight": 900,
+	"permissions": "pixel,overlay"
+}

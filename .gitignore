@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+test/*.png
+test/_to_delete/

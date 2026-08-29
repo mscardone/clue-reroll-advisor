@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Clue Re-roll Advisor</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="./icon.png">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header>
+  <h1>Clue Re-roll Advisor</h1>
+  <button id="scan" title="Read the Trail Complete! window now">Read screen</button>
+</header>
+
+<nav id="tiers" aria-label="Clue tier">
+  <button data-tier="easy">Easy</button>
+  <button data-tier="medium" class="on">Med</button>
+  <button data-tier="hard">Hard</button>
+  <button data-tier="elite">Elite</button>
+  <button data-tier="master">Master</button>
+</nav>
+
+<section id="verdict" class="verdict idle">
+  <div class="v-head" id="v-head">Waiting for a casket</div>
+  <div class="v-value" id="v-value">&mdash;</div>
+  <div class="v-detail" id="v-detail">Open a reward casket with Alt1 running, or type a value in below.</div>
+</section>
+
+<section class="bar-wrap">
+  <div class="bar">
+    <div class="bar-fill" id="bar-fill"></div>
+    <div class="tick" id="tick-budget" title="bottom third - re-roll below here"></div>
+    <div class="tick alt" id="tick-even" title="break-even: average casket value"></div>
+    <div class="marker" id="bar-marker"></div>
+  </div>
+  <div class="bar-legend">
+    <span id="lg-pct">&nbsp;</span>
+    <span id="lg-beat">&nbsp;</span>
+  </div>
+</section>
+
+<section class="stats">
+  <div><span>Re-roll below</span><b id="s-budget">&mdash;</b></div>
+  <div><span>Break-even</span><b id="s-even">&mdash;</b></div>
+  <div><span>Typical casket</span><b id="s-median">&mdash;</b></div>
+  <div><span>Tokens</span><b id="s-tokens">?</b></div>
+</section>
+
+<section class="manual">
+  <label>Value <input id="m-value" type="text" inputmode="numeric" placeholder="678,818"></label>
+  <label>Tokens <input id="m-tokens" type="number" min="0" max="5" placeholder="?"></label>
+  <label class="cap">Cap
+    <select id="m-cap"><option value="3">3</option><option value="5">5 (globetrotter)</option></select>
+  </label>
+</section>
+
+<section class="opts">
+  <label><input type="checkbox" id="o-auto" checked> Watch the screen</label>
+  <label><input type="checkbox" id="o-overlay"> Show verdict over the game</label>
+</section>
+
+<footer>
+  <div id="status">starting&hellip;</div>
+  <details>
+    <summary>What the numbers mean</summary>
+    <p><b>Re-roll below</b> is the bottom third of caskets for this tier. You earn one token per
+      3 clues, so re-rolling roughly the worst third is what you can afford long-run.</p>
+    <p><b>Break-even</b> is the average casket. Above it a re-roll loses value in expectation -
+      and a re-roll replaces the whole reward, you can't keep the old one.</p>
+    <p>Between the two: keep it and bank the token, unless you're at the token cap, where the
+      next token you earn would be wasted anyway.</p>
+    <p id="model-note"></p>
+  </details>
+</footer>
+
+<script src="./vendor/a1lib.js"></script>
+<script src="./vendor/ocr.js"></script>
+<script src="./vendor/font_aa_9px_mono_allcaps.js"></script>
+<script src="./src/anchor.js"></script>
+<script src="./src/advice.js"></script>
+<script src="./src/reader.js"></script>
+<script src="./src/app.js"></script>
+</body>
+</html>

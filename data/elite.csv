@@ -1,0 +1,133 @@
+table,item,rarity,value
+commons,Super restore (4),1/19,23463
+commons,Antifire (4),1/19,77634
+commons,Prayer potion (4),1/19,33489
+commons,Lychee seed,1/19,238
+commons,Royal dragonhide,1/19,39255
+commons,Water talisman,1/19,4416
+commons,Onyx bolt tips,1/19,98184
+commons,Guarana seed,1/19,2047
+commons,Yew seed,1/19,992
+commons,Dragonfruit seed,1/19,608
+commons,Coins,1/19,50000
+commons,Battlestaff,1/19,41152
+commons,Green salamander,1/19,30195
+commons,Unicorn horn,1/19,8690
+commons,Huge plated rune salvage,1/19,38090
+commons,Mango seed,1/19,302
+commons,Mahogany plank,1/19,50440
+commons,Dragon helm,1/19,58346
+commons,Uncut dragonstone,1/19,11378
+shared,Saradomin page 1,1/456,15606-46818
+shared,Saradomin page 2,1/456,11240-33720
+shared,Saradomin page 3,1/456,15091-45273
+shared,Saradomin page 4,1/456,18334-55002
+shared,Zamorak page 1,1/456,18132-54396
+shared,Zamorak page 2,1/456,13272-39816
+shared,Zamorak page 3,1/456,13719-41157
+shared,Zamorak page 4,1/456,17352-52056
+shared,Guthix page 1,1/456,19416-58248
+shared,Guthix page 2,1/456,16559-49677
+shared,Guthix page 3,1/456,17110-51330
+shared,Guthix page 4,1/456,17878-53634
+shared,Armadyl page 1,1/456,27142-81426
+shared,Armadyl page 2,1/456,21387-64161
+shared,Armadyl page 3,1/456,22463-67389
+shared,Armadyl page 4,1/456,28873-86619
+shared,Ancient page 1,1/456,9368-28104
+shared,Ancient page 2,1/456,8032-24096
+shared,Ancient page 3,1/456,9359-28077
+shared,Ancient page 4,1/456,6981-20943
+shared,Bandos page 1,1/456,4248-12744
+shared,Bandos page 2,1/456,3689-11067
+shared,Bandos page 3,1/456,5413-16239
+shared,Bandos page 4,1/456,3937-11811
+shared,Red firelighter,1/114,15720-27510
+shared,Green firelighter,1/114,19092-33411
+shared,Blue firelighter,1/114,10392-18186
+shared,Purple firelighter,1/114,10356-18123
+shared,White firelighter,1/114,13632-23856
+shared,Guido's bonfire in a bottle,1/114,14445-28890
+shared,Purple sweets,3/19,23100-50050
+shared,Holy biscuits,1/19,144-312
+shared,Pollnivneach Teleport,1/19,5135-10270
+shared,Bandit Camp Teleport,1/38,10230-20460
+shared,Gu'Tanoth Teleport,1/38,3335-6670
+uniques,Dragon staff,1/756,922118
+uniques,Penguin staff,1/756,827045
+uniques,Bat staff,1/756,829031
+uniques,Wolf staff,1/756,814067
+uniques,Cat staff,1/756,816538
+uniques,Fury ornament kit,1/756,904069
+uniques,Dragon full helm ornament kit (or),1/756,6320
+uniques,Dragon platelegs/skirt ornament kit (or),1/756,503074
+uniques,Dragon platebody ornament kit (or),1/756,7125
+uniques,Dragon sq shield ornament kit (or),1/756,73262
+uniques,Dragon full helm ornament kit (sp),1/756,6246
+uniques,Dragon platelegs/skirt ornament kit (sp),1/756,508708
+uniques,Dragon platebody ornament kit (sp),1/756,8210
+uniques,Dragon sq shield ornament kit (sp),1/756,79551
+uniques,Armadyl crozier,1/756,875869
+uniques,Bandos crozier,1/756,849265
+uniques,Ancient crozier,1/756,850957
+uniques,Armadyl stole,1/756,816430
+uniques,Bandos stole,1/756,825441
+uniques,Ancient stole,1/756,799451
+uniques,Rune platebody (Ancient),1/756,756573
+uniques,Rune platelegs (Ancient),1/756,739235
+uniques,Rune plateskirt (Ancient),1/756,783054
+uniques,Rune full helm (Ancient),1/756,848361
+uniques,Rune kiteshield (Ancient),1/756,831998
+uniques,Rune platebody (Armadyl),1/756,729350
+uniques,Rune platelegs (Armadyl),1/756,786983
+uniques,Rune plateskirt (Armadyl),1/756,758808
+uniques,Rune full helm (Armadyl),1/756,812104
+uniques,Rune kiteshield (Armadyl),1/756,809515
+uniques,Rune platebody (Bandos),1/756,829346
+uniques,Rune platelegs (Bandos),1/756,854146
+uniques,Rune plateskirt (Bandos),1/756,831287
+uniques,Rune full helm (Bandos),1/756,866283
+uniques,Rune kiteshield (Bandos),1/756,883180
+uniques,Blessed dragonhide vambraces (Zaros),1/756,976352
+uniques,Blessed dragonhide body (Zaros),1/756,977555
+uniques,Blessed dragonhide chaps (Zaros),1/756,952401
+uniques,Blessed dragonhide coif (Zaros),1/756,949419
+uniques,Blessed dragonhide vambraces (Bandos),1/756,939164
+uniques,Blessed dragonhide body (Bandos),1/756,974984
+uniques,Blessed dragonhide chaps (Bandos),1/756,937865
+uniques,Blessed dragonhide coif (Bandos),1/756,945956
+uniques,Blessed dragonhide vambraces (Armadyl),1/756,954894
+uniques,Blessed dragonhide body (Armadyl),1/756,966004
+uniques,Blessed dragonhide chaps (Armadyl),1/756,957293
+uniques,Blessed dragonhide coif (Armadyl),1/756,933231
+uniques,Black dragon mask,1/4536,1220304
+uniques,Frost dragon mask,1/4536,1058106
+uniques,Bronze dragon mask,1/4536,1102162
+uniques,Iron dragon mask,1/4536,1024600
+uniques,Steel dragon mask,1/4536,1055974
+uniques,Mithril dragon mask,1/4536,1020286
+uniques,Third age druidic staff,1/192780,197908107
+uniques,Third age druidic cloak,1/192780,202941251
+uniques,Third age druidic wreath,1/192780,496572860
+uniques,Third age druidic robe top,1/192780,220709560
+uniques,Third age druidic robe bottom,1/192780,200445733
+uniques,Guthix bow,1/2313,964682
+uniques,Zamorak bow,1/2313,1907743
+uniques,Saradomin bow,1/2313,1141436
+uniques,Starved ancient effigy,1/3780,0
+uniques,Coins (10k),1/945,10000
+uniques,Shadow dye,1/16632,694315706
+uniques,Ice dye,1/12672,615878457
+uniques,Barrows dye,1/10138,66343462
+uniques,Re-roll token (elite),1/922,0
+uniques,Third Age dye,1/52920,8875826456
+uniques,Sack of effigies,1/30678,2150147
+uniques,Backstab cape,1/15732,1801817
+uniques,Crystal triskelion fragment 1,1/828,0
+uniques,Crystal triskelion fragment 2,1/828,0
+uniques,Crystal triskelion fragment 3,1/828,0
+uniques,Blood dye,1/52920,9514200448
+uniques,Dragon cane,1/1534,771630
+uniques,Coins (100k),1/1534,100000
+uniques,Robin Hood tights,1/1512,889156
+uniques,Robin Hood tunic,1/1512,862343
