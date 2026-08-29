@@ -18,6 +18,9 @@ npm install          # once, for the dev tools (the app itself has no runtime de
 npm run serve        # or double-click serve.cmd on Windows
 ```
 
+`serve.cmd` uses Node if it's on the machine and falls back to `py -m http.server 8231`.
+Any static server pointed at this folder works — nothing here needs a backend.
+
 The server prints an `alt1://addapp/...` line. Paste that into Alt1's own browser address bar
 (or click it if your browser offers to open it in Alt1) and the app installs. Give it
 **screen capture** permission when Alt1 asks — that's what the reading depends on.
