@@ -125,8 +125,8 @@ finds itself exactly once before writing anything.
 ## Tests
 
 ```
-npm test                  # decision logic, model sanity, value parsing
-npm test some-shot.png    # also runs the full screen-reading path against a screenshot
+npm test                  # 45 checks: decision logic, model sanity, value parsing
+npm test some-shot.png    # +3 more: the full screen-reading path against a screenshot
 ```
 
 ## Layout
