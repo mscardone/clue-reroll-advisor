@@ -11,19 +11,26 @@ casket is worse than a random one, and whether it's worse by enough to be worth 
 
 ## Install
 
-The app has to be served over http; Alt1 won't load it off the filesystem.
+The app has to be served over http; Alt1 won't load it off the filesystem. Nothing needs
+installing to run it — **double-click `serve.cmd`**.
+
+It serves this folder with whatever it finds on the PC, trying `node`, then `py`, then
+`python`, then `python3`. A console window opens and prints:
 
 ```
-npm install          # once, for the dev tools (the app itself has no runtime deps)
-npm run serve        # or double-click serve.cmd on Windows
+alt1://addapp/http://localhost:8231/appconfig.json
 ```
 
-`serve.cmd` uses Node if it's on the machine and falls back to `py -m http.server 8231`.
-Any static server pointed at this folder works — nothing here needs a backend.
+Paste that into the address bar of **Alt1's own browser** and the app installs. Give it
+**screen capture** permission when Alt1 asks — that's what the reading depends on. Leave the
+console window open while you play; closing it stops the server.
 
-The server prints an `alt1://addapp/...` line. Paste that into Alt1's own browser address bar
-(or click it if your browser offers to open it in Alt1) and the app installs. Give it
-**screen capture** permission when Alt1 asks — that's what the reading depends on.
+Pass a port as an argument (`serve.cmd 9000`) if 8231 is taken. The server binds to
+127.0.0.1 only, so it isn't reachable from anywhere else and Windows won't ask about the firewall.
+
+`npm install` is only for the development tools (the test runner and the calibration script) —
+it's already been run, `node_modules` is in the folder, and the app itself has no runtime
+dependencies at all.
 
 ### Hosting it on GitHub Pages instead
 
