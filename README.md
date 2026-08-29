@@ -45,9 +45,14 @@ git repo with history), then **Publish repository** - name it `clue-reroll-advis
 
 Then on github.com: **Settings > Pages > Source: Deploy from a branch > main > / (root) > Save**.
 
-Install from `alt1://addapp/https://mscardone.github.io/clue-reroll-advisor/appconfig.json`.
+Install from `alt1://addapp/https://projects.scottcardone.com/clue-reroll-advisor/appconfig.json`.
 `.nojekyll` is already in place so Pages serves the folder as-is, and `node_modules` is
 gitignored so it never gets uploaded.
+
+The custom domain is set on the `mscardone.github.io` user site, not here - a user site's
+custom domain becomes the base URL for every project site on the account, so this repo needs
+no CNAME file of its own. DNS is a `CNAME` record for `projects` pointing at
+`mscardone.github.io`, managed at GoDaddy.
 
 ## Using it
 
